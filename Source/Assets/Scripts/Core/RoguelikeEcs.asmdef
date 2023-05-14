@@ -1,0 +1,19 @@
+{
+    "name": "RoguelikeEcs",
+    "rootNamespace": "RoguelikeEcs",
+    "references": [
+        "GUID:4e89899dd8d1547fa980423b66103e71",
+        "GUID:e58005f89eae90e7ca08174e996174c8",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:6f0786a5bbd4d44b992c72105d6500fe"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
